@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.concurrent.CompletableFuture;
 
 public class GemFlipMod implements ClientModInitializer {
-//help! help! help! im having github problems and i have no idea what im doing! help! help!
+//help! help! help! im having github problems and i have no idea what im doing! help! help! help!
     private static final int LEADERBOARD_SIZE = 10;
 
     @Override
